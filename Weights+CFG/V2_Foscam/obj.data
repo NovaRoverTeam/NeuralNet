@@ -1,0 +1,5 @@
+classes= 1
+#train = data/train.txt
+#valid = data/test.txt
+names = /home/nvidia/Documents/NeuralNet/Weights+CFG/V2_Foscam/obj.names
+#backup = backup/
